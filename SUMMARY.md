@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Collaboration Work](README.md)
+* [first page](README.md)
+* [Collaboration Work](collaboration-work/README.md)
+  * [Pipeline: Surface Scattering](collaboration-work/pipeline-surface-scattering.md)
 
